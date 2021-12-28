@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab0101</string>
+    <string name="hello_world">Hello, World</string>
+    <string name="tap_here">Tap Here</string>
+</resources>
